@@ -1,0 +1,13 @@
+{
+    "name": "vendor/correction-t-p09",
+    "description": "Description of project Correction-TP09.",
+    "authors": [
+        {
+            "name": "thomas.bance",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "twig/twig": "v2.15.4"
+    }
+}
