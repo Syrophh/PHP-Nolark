@@ -23,9 +23,9 @@ $pages = array(
 
 <header>
     <picture>
-        <source media="(max-width: 576px)" srcset="<?php echo $dirIndex; ?>images/banniere_small.png">
-        <source srcset="<?php echo $dirIndex; ?>images/banniere.png">
-        <img src="<?php echo $dirIndex; ?>images/banniere.png" alt="Nolark : Protect your minds ! Cette bannière montre un 
+        <source media="(max-width: 576px)" srcset="<?php echo $dirIndex; ?>../images/banniere_small.png">
+        <source srcset="<?php echo $dirIndex; ?>../images/banniere.png">
+        <img src="<?php echo $dirIndex; ?>../images/banniere.png" alt="Nolark : Protect your minds ! Cette bannière montre un 
              coucher de soleil avec une femme embrassant un homme réalisant en stoppie sur sa
              moto.">
         <!-- Image basée sur la création originale de ShiftGraphiX sur Pixabay : 

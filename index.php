@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <!-- 
      Page web créé dans le cadre du cours de web Dev le 01/09/2018
-     Auteur : José GIL
-     Email : jgil83000@gmail.com
+     Auteur : Thomas BANCE-LAUPENIE
+     Email : thomas170303@gmail.com
 -->
 
 <html lang="fr-FR">
